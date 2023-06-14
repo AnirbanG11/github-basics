@@ -1,4 +1,13 @@
+Favorite food
+-------------
 Biryani
 Chimken
 Pizza
 Burger
+
+Favorite movies
+----------------
+Inception 
+Interstellar
+The Dark Knight
+John Wick
